@@ -1,5 +1,6 @@
 # AbtMe
 <img width="1500" height="245" alt="Без названия152_20261125021750" src="https://github.com/user-attachments/assets/dc8d1293-f91f-4c23-94f1-ce370649eadb" />
+<img src="https://github.com/user-attachments/assets/4565d952-ea95-44bb-9534-816d776be405" width="200" align="left" />
 <div align="center">
 <img width="400" height="225" alt="lv_0_20261125014249" src="https://github.com/user-attachments/assets/9df59c10-f228-4aae-bbdc-c2fa87569b65" />
   <p></p>
