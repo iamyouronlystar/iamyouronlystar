@@ -3,7 +3,7 @@
 <div align="center">
 <img width="400" height="225" alt="lv_0_20261125014249" src="https://github.com/user-attachments/assets/9df59c10-f228-4aae-bbdc-c2fa87569b65" />
   <p></p>
-<img width="300" height="700" alt="Без названия143_20261125011143" src="https://github.com/user-attachments/assets/05d0724a-9ea5-41dd-afad-880c992dc7dc" />
+<img width="100" height="500" alt="Без названия143_20261125011143" src="https://github.com/user-attachments/assets/05d0724a-9ea5-41dd-afad-880c992dc7dc" />
 текст текст текст
 
 
