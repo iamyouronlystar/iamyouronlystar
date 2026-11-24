@@ -3,12 +3,9 @@
 <div align="center">
 <img width="400" height="225" alt="lv_0_20261125014249" src="https://github.com/user-attachments/assets/9df59c10-f228-4aae-bbdc-c2fa87569b65" />
   <p></p>
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img width="200" height="350" alt="Без названия144_20261125034841" src="https://github.com/user-attachments/assets/dfabd3e7-b0c2-41c5-90e3-a3b8604a4966" />
-  <div>
-    <p>текст текст тексттекст текст тексттекст текст тексттекст текст тексттекст текст тексттекст текст тексттекст текст тексттекст текст тексттекст текст тексттекст текст тексттекст текст тексттекст текст текст</p>
-  </div>
-</div>
+<<img width="300" height="650" alt="Без названия144_20261125034841" src="https://github.com/user-attachments/assets/a820191d-6185-42be-abe0-9b282a4e9ea7" /> style="float: left; margin-right: 20px;">
+<p>Этот текст будет обтекать картинку справа. Пока хватает ширины, он стоит сбоку. Если экран узкий — перейдёт под картинку.</p>
+<p>Пиши здесь сколько угодно абзацев — они все будут «обтекать» изображение.</p>
 
 
 
