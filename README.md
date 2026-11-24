@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td style="padding-right: 20px; vertical-align: top;">
-      <img width="200" height="350" alt="Без названия144_20261125034841" src="https://github.com/user-attachments/assets/ce1202b1-0c96-4e2d-9663-79a83a0e7467" />
+      <img src="https://github.com/user-attachments/assets/ce1202b1-0c96-4e2d-9663-79a83a0e7467" width="200"  />
     </td>
     <td style="vertical-align: top;">
       <p>Тут твой текст сбоку от изображения. Он будет стоять справа, пока хватает ширины экрана.</p>
