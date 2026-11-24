@@ -4,6 +4,7 @@
 <img width="400" height="225" alt="lv_0_20261125014249" src="https://github.com/user-attachments/assets/9df59c10-f228-4aae-bbdc-c2fa87569b65" />
   <p></p>
 <img width="200" height="350" alt="Без названия144_20261125034841" src="https://github.com/user-attachments/assets/c3ab5c8e-bf9e-4632-b14e-dcc1ab9f9e72" width="300" style="float: left; margin-right: 20;"/>
+<p> текст текст тексттекст текст тексттекст текст тексттекст текст тексттекст текст тексттекст текст текст 
 
 
 
