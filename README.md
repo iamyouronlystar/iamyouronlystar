@@ -4,7 +4,7 @@
 <img width="400" height="225" alt="lv_0_20261125014249" src="https://github.com/user-attachments/assets/9df59c10-f228-4aae-bbdc-c2fa87569b65" />
   <p></p>
 <img width="200" height="350" alt="Без названия144_20261125034841" src="https://github.com/user-attachments/assets/c3ab5c8e-bf9e-4632-b14e-dcc1ab9f9e72" width="300" style="float: left; margin-right: 20;"/>
-текст текст текст
+
 
 
 <img width="900" height="500" alt="The true king!" src="https://github.com/user-attachments/assets/f0654ca6-ca60-405e-9b97-e7aec431baff" />
