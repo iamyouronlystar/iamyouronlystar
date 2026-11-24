@@ -3,7 +3,7 @@
 <div align="center">
 <img width="400" height="225" alt="lv_0_20261125014249" src="https://github.com/user-attachments/assets/9df59c10-f228-4aae-bbdc-c2fa87569b65" />
   <p></p>
-<img width="200" height="350" alt="Без названия144_20261125034841" src="https://github.com/user-attachments/assets/c3ab5c8e-bf9e-4632-b14e-dcc1ab9f9e72" width="300" style="float: left; margin-right: 20px;"/>
+<img width="200" height="350" alt="Без названия143_20261125034615" src="https://github.com/user-attachments/assets/9c5a889b-274d-4373-ba4f-3efc73ead521" width="300" style="float: left; margin-right: 20px;">
 <p>текст текст тексттекст текст тексттекст текст тексттекст текст тексттекст текст тексттекст текст текст</p>
 
 
