@@ -1,7 +1,7 @@
 # AbtMe
 <img width="1500" height="245" alt="Без названия152_20261125021750" src="https://github.com/user-attachments/assets/dc8d1293-f91f-4c23-94f1-ce370649eadb" />
-<img src="https://github.com/user-attachments/assets/29c99926-53f2-41f2-9358-3ce162d56c5c" width="200" height="600" align="left" />
-<img src="https://github.com/user-attachments/assets/054c3d03-4bec-499e-ae31-9e36e9a6fd2f" width="200" height="600" align="right" />
+<img src="https://github.com/user-attachments/assets/6863e300-6f81-4fb9-8dfe-ed21a4ce15bb" width="200" height="600" align="left" />
+<img src="https://github.com/user-attachments/assets/ea056a3a-9cd7-4a76-9801-719bee590206" width="200" height="600" align="right" />
 
 <div align="center">
 <img width="500" height="225" alt="lv_0_20261125014249" src="https://github.com/user-attachments/assets/9df59c10-f228-4aae-bbdc-c2fa87569b65" />
