@@ -1,7 +1,7 @@
 # -ˋˏ☆
 <img width="1500" height="245" alt="Без названия152_20261125021750" src="https://github.com/user-attachments/assets/dc8d1293-f91f-4c23-94f1-ce370649eadb" />
-<img src="https://github.com/user-attachments/assets/6863e300-6f81-4fb9-8dfe-ed21a4ce15bb" width="150" height="600" align="left" />
-<img src="https://github.com/user-attachments/assets/400bdb1b-3c07-4179-b1ce-f2067ede904c" width="150" height="600" align="right" />
+<img src="https://github.com/user-attachments/assets/27faab7e-5ef8-44d4-94b0-a5843097a084" width="150" height="600" align="left" />
+<img src="https://github.com/user-attachments/assets/f523883d-2cd8-4314-88d7-8c184648f5a0" width="150" height="600" align="right" />
 
 <div align="center">
 <img width="500" height="225" alt="lv_0_20261125014249" src="https://github.com/user-attachments/assets/9df59c10-f228-4aae-bbdc-c2fa87569b65" />
