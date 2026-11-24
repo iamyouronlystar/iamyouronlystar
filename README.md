@@ -6,7 +6,7 @@
 <div align="center">
 <img width="500" height="225" alt="lv_0_20261125014249" src="https://github.com/user-attachments/assets/9df59c10-f228-4aae-bbdc-c2fa87569b65" />
   <p></p>
-<img src="https://github.com/user-attachments/assets/8c3619fb-235b-4a4c-b03c-fd593404bab6" width="200" align="left" />
+<img src="https://github.com/user-attachments/assets/5b904338-d5ff-4a5c-be50-591428be5a0c" width="200" align="left" />
 <p>𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 𝑲𝒂𝒔𝒂!</p>
 <p>𝙸𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎:</p>
 <p>-ˋˏ☆﹕→ 𝖸𝗈𝗎 𝖼𝖺𝗇 𝗎𝗌𝗎𝖺𝗅𝗅𝗒 𝖿𝗂𝗇𝖽 𝗆𝖾 𝖺𝗍 𝗍𝗁𝖾 𝗉𝗂𝖾𝗋, 𝗍𝗁𝖾 𝗎𝗉𝗉𝖾𝗋 𝖻𝖾𝖺𝖼𝗁, 𝗈𝗋 𝗈𝗇 𝖯𝖺𝗋𝗍𝗒 𝖨𝗌𝗅𝖺𝗇𝖽 (𝖲𝖺𝖿𝖾 𝖱𝗎𝗌 𝟙).</p>
